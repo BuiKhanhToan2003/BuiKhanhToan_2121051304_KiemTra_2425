@@ -18,6 +18,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\KiemTraMVC\KiemTraMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/KiemTraMVC/KiemTraMVC/Views/buikhanhtoan/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYnVpa2hhbmh0b2FuXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KiemTraMVC/KiemTraMVC/Views/buikhanhtoan/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYnVpa2hhbmh0b2FuXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KiemTraMVC/KiemTraMVC/Views/buikhanhtoan/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYnVpa2hhbmh0b2FuXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KiemTraMVC/KiemTraMVC/Views/buikhanhtoan/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYnVpa2hhbmh0b2FuXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KiemTraMVC/KiemTraMVC/Views/buikhanhtoan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYnVpa2hhbmh0b2FuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/KiemTraMVC/KiemTraMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,12 +46,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/KiemTraMVC/KiemTraMVC/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/KiemTraMVC/KiemTraMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[D:/KiemTraMVC/KiemTraMVC/Views/Tinhdiem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaGRpZW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/KiemTraMVC/KiemTraMVC/Views/_ViewImports.cshtml]
@@ -41,7 +57,3 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/KiemTraMVC/KiemTraMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[D:/KiemTraMVC/KiemTraMVC/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-po0awankqd

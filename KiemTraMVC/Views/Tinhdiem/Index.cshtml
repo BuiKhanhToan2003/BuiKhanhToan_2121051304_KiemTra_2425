@@ -1,0 +1,17 @@
+@model KiemTraMVC.Models.Tinhdiem
+<h2>Tính điểm tổng kết</h2>
+<form asp-action="Tinhdiem" method="post">
+    <div>
+        <label>Nhập điểm A</label>
+        <input asp-for="number1" type="number" required />
+        <label>Nhập điểm B</label>
+        <input asp-for="number2" type="number" required />
+        <label>Nhập điểm C</label>
+        <input asp-for="number3" type="number" required />
+        <button type="submit">Tính điểm</button>
+    </div>
+</form>
+
+
+    <h3>Điểm tổng kết của bạn là : @Model.result</h3>
+
